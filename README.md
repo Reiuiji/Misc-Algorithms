@@ -1,4 +1,5 @@
 Misc-Algorithms
 ===============
 
-Miscalaneous Algorithms Created
+Miscalaneous Algorithms for various test
+
